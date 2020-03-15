@@ -1,5 +1,4 @@
-# amath482
-Amath 482: Computation Methods in Data Analysis - Project Repository
+# Amath 482: Computation Methods in Data Analysis - Project Repository
 This repository hosts five project scrips and their reports in each folder.
 ## Project 1 - An Ultrasound Problem
 Project overview: FFT and filtering
